@@ -1,6 +1,6 @@
 {
     "name": "ember-loader",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "homepage": "https://github.com/imtapps/ember-loader",
     "description": "Loader for Ember.js with es6 modules",
     "main": "loader.js",
