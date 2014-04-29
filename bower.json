@@ -2,7 +2,7 @@
     "name": "ember-loader",
     "version": "0.1.0",
     "homepage": "https://github.com/imtapps/ember-loader",
-    "description": "Loader for Ember.js with es6 modules"
+    "description": "Loader for Ember.js with es6 modules",
     "main": "loader.js",
     "keywords": [
         "ember",
@@ -11,7 +11,7 @@
     ],
     "licence": "MIT",
     "ignore": [
-        "node_modules",
-        "bower_components"
+        "node_modules/*",
+        "bower_components/*"
     ]
 }
