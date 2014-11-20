@@ -7,6 +7,8 @@ var define, requireModule, require, requirejs;
     registry[name] = { deps: deps, callback: callback };
   };
 
+  define.amd = true;
+
   requirejs = require = requireModule = function(name) {
   requirejs._eak_seen = registry;
 
